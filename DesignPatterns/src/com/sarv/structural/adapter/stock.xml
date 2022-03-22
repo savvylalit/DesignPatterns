@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stock>
+	<instrument>
+		<ric>TEST_AU</ric>
+		<qty>25</qty>
+		<adv>100</adv>
+	</instrument>
+	
+	<instrument>
+		<ric>TEST_HK</ric>
+		<qty>50</qty>
+		<adv>200</adv>
+	</instrument>
+	
+	<instrument>
+		<ric>TEST_GB</ric>
+		<qty>75</qty>
+		<adv>300</adv>
+	</instrument>
+</stock>
